@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DrawInsetsFrameLayout">
+        <attr name="insetBackground" format="reference|color"/>
+    </declare-styleable>
+
+    <declare-styleable name="AutofitTextView">
+        <!-- Minimum size of the text. -->
+        <attr name="minTextSize" format="dimension" />
+        <!-- Amount of precision used to calculate the correct text size to fit within its
+        bounds. Lower precision is more precise and takes more time. -->
+        <attr name="precision" format="float" />
+        <!-- Defines whether to automatically resize text to fit to the view's bounds. -->
+        <attr name="sizeToFit" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="pstsIndicatorColor" format="color" />
+        <attr name="pstsIndicatorHeight" format="dimension" />
+        <attr name="pstsUnderlineColor" format="color" />
+        <attr name="pstsUnderlineHeight" format="dimension" />
+        <attr name="pstsDividerColor" format="color" />
+        <attr name="pstsDividerWidth" format="dimension" />
+        <attr name="pstsDividerPadding" format="dimension" />
+        <attr name="pstsScrollOffset" format="dimension" />
+        <attr name="pstsShouldExpand" format="boolean" />
+        <attr name="pstsPaddingMiddle" format="boolean" />
+        <attr name="pstsTabPaddingLeftRight" format="dimension" />
+        <attr name="pstsTabBackground" format="reference" />
+        <attr name="pstsTabTextSize" format="dimension" />
+        <attr name="pstsTabTextColor" format="reference" />
+        <attr name="pstsTabTextStyle" format="reference">
+            <flag name="normal" value="0x0" />
+            <flag name="bold" value="0x1" />
+            <flag name="italic" value="0x2" />
+        </attr>
+        <attr name="pstsTabTextAllCaps" format="boolean" />
+        <attr name="pstsTabTextAlpha" format="integer" />
+        <attr name="pstsTabTextFontFamily" format="string" />
+    </declare-styleable>
+    <declare-styleable name="superrecyclerview">
+        <attr name="layout_empty" format="reference"/>
+        <attr name="layout_moreProgress" format="reference"/>
+        <attr name="layout_progress" format="reference"/>
+        <attr name="recyclerClipToPadding" format="boolean"/>
+        <attr name="recyclerPadding" format="dimension"/>
+        <attr name="recyclerPaddingTop" format="dimension"/>
+        <attr name="recyclerPaddingBottom" format="dimension"/>
+        <attr name="recyclerPaddingLeft" format="dimension"/>
+        <attr name="recyclerPaddingRight" format="dimension"/>
+        <attr name="scrollbarStyle">
+            <flag name="insideOverlay" value="0x0"/>
+            <flag name="insideInset" value="0x01000000"/>
+            <flag name="outsideOverlay" value="0x02000000"/>
+            <flag name="outsideInset" value="0x03000000"/>
+        </attr>
+
+        <attr name="mainLayoutId" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="SwipeLayout">
+        <attr name="drag_edge" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
+        <attr name="horizontalSwipeOffset" format="dimension"/>
+        <attr name="verticalSwipeOffset" format="dimension"/>
+        <attr name="show_mode" format="enum">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>

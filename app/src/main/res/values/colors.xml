@@ -1,0 +1,65 @@
+<resources>
+    <!--Tin hot-->
+    <color name="myPrimaryColor">#16A085</color> <!--Backgroup Toolbar-->
+    <color name="myPrimaryDarkColor">#ff168c70</color> <!--Backgroup Statusbar-->
+    <!--Vnexpress-->
+    <color name="myPrimaryColor1">#D50000</color>
+    <color name="myPrimaryDarkColor1">#ffbf0000</color>
+    <!--Dan tri-->
+    <color name="myPrimaryColor2">#43A047</color>
+    <color name="myPrimaryDarkColor2">#ff448c46</color>
+   <!--DoiSongPhapluat-->
+    <color name="myPrimaryColor3">#3F51B5</color>
+    <color name="myPrimaryDarkColor3">#ff3e52a0</color>
+    <!--Ngoi Sao-->
+    <color name="myPrimaryColor4">#2962FF</color>
+    <color name="myPrimaryDarkColor4">#ff2659e8</color>
+    <!--Bong da plus-->
+    <color name="myPrimaryColor5">#00ACC1</color>
+    <color name="myPrimaryDarkColor5">#ff0098ad</color>
+    <!--Kenh14-->
+    <color name="myPrimaryColor6">#F57C00</color>
+    <color name="myPrimaryDarkColor6">#ffe17100</color>
+    <!--Cong nghe-->
+    <color name="myPrimaryColor7">#673AB7</color>
+    <color name="myPrimaryDarkColor7">#ff523ba3</color>
+
+    <!--GameK-->
+    <color name="myPrimaryColor8">#FF5252</color>
+    <color name="myPrimaryDarkColor8">#ffea4c4c</color>
+    <color name="see_bar">#ECF0F1</color>
+    <color name="myAccentColor">#00796B</color>
+    <color name="ColorBottom_Tab">#FFEB3B</color>
+    <color name="myDrawerBackground">#F2F2F2</color> <!--Hình nền backgroup-->
+    <color name="myWindowBackground">#DEDEDE</color> <!--Hình nền backgroup-->
+    <color name="myTextPrimaryColor">#FFFFFF</color> <!--Màu chữ ứng dụng trên thanh Actionbar-->
+    <color name="my_dialogColor">#212121</color> <!--Backgroup phím ảo-->
+    <color name="web_view">@android:color/transparent</color>
+    <color name="Text_Tab_host">#ffd1d1d1</color> <!--Backgroup Tabhost-->
+    <!--<color name="Tab_host_v19">#26C6DA</color> Backgroup Tabhost-->
+    <color name="myGridBackground">#ff3e3e3e</color>
+    <color name="backgroup">#FFFFFF</color>
+    <color name="color_refresh">#D50000</color>
+    <color name="color_refresh1">#00796B</color>
+    <color name="color_refresh2">#2979FF</color>
+    <color name="color_refresh3">#651FFF</color>
+    <color name="title_dialog">#263238</color>
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="cardview_initial_background">#71C3DE</color>
+    <color name="lite_blue">#ff359ff2</color>
+    <color name="window_background">#00000000</color>
+    <color name="Background_read_rss">#212121</color>
+    <!-- MaterialDialog colors -->
+    <color name="sdl_text_primary">#DE000000</color> <!-- 87% -->
+    <color name="sdl_text_secondary">#8A000000</color> <!-- 54% -->
+    <color name="sdl_divider">#1F000000</color> <!-- 12% -->
+    <color name="background_item">#5F000000</color> <!-- 12% -->
+    <color name="sdl_pressed">#D5D5D5</color>
+   <!-- Context menu-->
+    <color name="menu_fragment_background">#B3000000</color>
+    <color name="menu_item_background">#f2f2f2</color>
+    <color name="divider_color">#b5b5b5</color>
+    <color name="psts_background_tab_pressed">#1AFFFFFF</color>
+    <color name="psts_background_tab_pressed_ripple">#AAFFFFFF</color>
+</resources>

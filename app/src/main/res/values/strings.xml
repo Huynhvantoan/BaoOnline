@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Báo Online</string>
+    <string name="crash_toast_text">Crashed App. Lỗi đã được gửi, xin vui lòng chờ bản cập nhật.</string>
+    <string name="drawer_open">Mở Menu</string>
+    <string name="drawer_close">Đóng Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_setting">Cài đặt</string>
+    <string name="action_About">Thông tin ứng dụng</string>
+    <string name="action_font">Font Setting</string>
+    <string name="action_back_group">Đổi Nền</string>
+    <string name="back_group_white">Nền Sáng</string>
+    <string name="back_group_black">Nền Tối</string>
+    <string name="action_Exit">Thoát</string>
+    <string name="blank_text"> </string>
+    <string name="my_name">Huỳnh Văn Toàn</string>
+    <string name="tin_hot">Tin Hot</string>
+    <string name="vietbao">Việt Báo</string>
+    <string name="vnexpress">VnExpress</string>
+    <string name="kenh14">Kênh 14</string>
+    <string name="dantri">Dân Trí</string>
+    <string name="dialog_title_internet">No Internet</string>
+    <string name="dialog_internet">Bật Wifi hoặc 3G để sử dụng! Khuyến cáo nên sử dụng Wifi để ứng dụng chạy tốt nhất. </string>
+    <string name="dialog_title_exit">EXIT</string>
+    <string name="dialog_exit">Bạn có muốn thoát ứng dụng?</string>
+    <string name="rate_app">Nếu bạn thích ứng dụng. Xin vui lòng đánh giá 5 sao.Xin chân thành cảm ơn các bạn đã sử dụng ứng dụng!</string>
+    <string name="rate_app_title">Đánh giá ứng dụng</string>
+    <string name="dialog_download">Đang tải dữ liệu</string>
+    <string name="dialog_loading">Loading … </string>
+    <string name="context_menu">Context menu</string>
+    <string name="dialog_title_news">Mạng quá yếu hoặc rớt mạng.</string>
+    <string name="dialog_content_news">Lấy tin không thành công.Kết nối Internet quá yếu hoặc đã mất.Đóng thông báo để tiếp tục thử sử dụng lại. Nếu vẫn không được xin vui lòng kiểm tra Internet!</string>
+    <string name="dialog_title_rotmang">Rớt mạng.</string>
+    <string name="dialog_content_rotmang">Mạng không chạy hoặc quá yếu. Ứng dụng sẽ được đóng lại, bạn vui lòng kiểm tra lại kết nối.</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_content_error">Lấy tin bị lỗi mạng quá yếu hoặc Server bị lỗi xin vui lòng thử lại hoặc quay lại sau. Xin cảm ơn!</string>
+    <string name="dialog_button">Thử lại</string>
+    <string name="version">Version</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3679853211525011/7020841871</string>
+</resources>

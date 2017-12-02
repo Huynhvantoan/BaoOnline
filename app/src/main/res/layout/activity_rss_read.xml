@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".page_load_webview">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/myPrimaryColor"/>
+    <RelativeLayout
+        android:layout_below="@id/toolbar_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <SeekBar
+            android:id="@+id/seek_bar"
+            android:background="@color/see_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+    <com.toan_itc.baoonline.ObservableScrollView.ObservableWebView
+        android:id="@+id/web_view"
+        android:layout_below="@+id/seek_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    </RelativeLayout>
+ </RelativeLayout>
+

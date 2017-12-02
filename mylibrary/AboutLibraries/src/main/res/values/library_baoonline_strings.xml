@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_int_baoonline">year;owner</string>
+    <string name="library_baoonline_author">Google Play</string>
+    <string name="library_baoonline_authorWebsite">http://toan93.blogspot.com/</string>
+    <string name="library_baoonline_libraryName">Báo Online</string>
+    <string name="library_baoonline_libraryDescription">Ứng dụng chỉ có mình phát triển vì vậy không thể tránh khỏi thiếu sót nên mong các bạn thông cảm truy cập vào Group facebook bên dưới hoặc gửi email đến địa chỉ huynhvantoan.itc@gmail.com báo lỗi, góp ý chức năng ứng dụng, thêm báo mới.Xin chân thành cảm ơn bạn đã sử dụng ứng dụng.</string>
+    <string name="library_baoonline_libraryVersion">#1</string>
+    <string name="library_baoonline_libraryWebsite">http://toan93.blogspot.com//</string>
+    <string name="library_baoonline_licenseId">apache_2_0</string>
+    <string name="library_baoonline_isOpenSource">true</string>
+    <string name="library_baoonline_repositoryLink">https://play.google.com/store/apps/details?id=com.toan_itc.baoonline</string>
+    <string name="library_baoonline_classPath">com.toan_itc.baoonline</string>
+    <!-- Custom variables section -->
+    <string name="library_baoonline_owner">Văn Toàn</string>
+    <string name="library_baoonline_year">2015</string>
+</resources>

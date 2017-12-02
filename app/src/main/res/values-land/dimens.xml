@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_with">150dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="padding_top_grid">13dp</dimen>
+    <dimen name="text_title_row">15sp</dimen>
+    <dimen name="text_description_row">16sp</dimen>
+    <dimen name="text_title_grid">16sp</dimen>
+    <dimen name="text_title_header_row">28sp</dimen>
+    <dimen name="text_description_header_row">22sp</dimen>
+    <dimen name="materialTextTab">16sp</dimen>
+</resources>

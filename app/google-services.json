@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "548109290477",
+    "firebase_url": "https://baoonline-23125.firebaseio.com",
+    "project_id": "baoonline-23125",
+    "storage_bucket": "baoonline-23125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548109290477:android:acabf0fef98fbdc8",
+        "android_client_info": {
+          "package_name": "com.toan_itc.baoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548109290477-v7fk9qg8b435db4kuh439vabpaq9gadj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toan_itc.baoonline",
+            "certificate_hash": "c34eb7657b863ad5551fa9a11a8d0609d48302a0"
+          }
+        },
+        {
+          "client_id": "548109290477-mdfbal7j7a1g68jo68febm8hb3oatm56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjbTe6mp64GZBvoG6rDhPDfJfbcylch8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548109290477-mdfbal7j7a1g68jo68febm8hb3oatm56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+<resources>
+    <dimen name="image_with">120dp</dimen>
+    <dimen name="image_height">90dp</dimen>
+    <dimen name="padding_top_grid">15dp</dimen>
+    <dimen name="text_title_row">13sp</dimen>
+    <dimen name="text_description_row">14sp</dimen>
+    <dimen name="text_title_grid">14sp</dimen>
+    <dimen name="text_title_header_row">22sp</dimen>
+    <dimen name="text_description_header_row">18sp</dimen>
+    <dimen name="materialTextTab">14sp</dimen>
+
+    <dimen name="navigation_drawer_width">260dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="tabhostHeight">48dp</dimen>
+    <dimen name="menu_context_Height">60dp</dimen>
+    <dimen name="tabSelectorHeight">2dp</dimen>
+    <!--Hieu ung listview-->
+    <declare-styleable name="BaoonlineListView">
+        <attr name="effect" format="enum" />
+        <attr name="only_animate_new_items" format="boolean" />
+        <attr name="only_animate_fling" format="boolean" />
+        <attr name="simulate_grid_with_list" format="boolean" />
+        <attr name="max_velocity" format="integer" />
+    </declare-styleable>
+    <dimen name="grid_1">4dp</dimen>   <!-- one square in grid -->
+    <dimen name="grid_2">8dp</dimen>
+    <dimen name="grid_3">12dp</dimen>
+    <dimen name="grid_4">16dp</dimen>
+    <dimen name="grid_5">20dp</dimen>
+    <dimen name="grid_6">24dp</dimen>
+    <dimen name="grid_7">28dp</dimen>
+    <dimen name="grid_8">32dp</dimen>
+    <dimen name="grid_9">36dp</dimen>
+    <dimen name="grid_10">40dp</dimen>
+    <dimen name="grid_11">44dp</dimen>
+    <dimen name="grid_12">48dp</dimen>
+    <dimen name="grid_13">52dp</dimen>
+    <dimen name="grid_14">56dp</dimen>
+    <dimen name="grid_15">60dp</dimen>
+    <dimen name="grid_16">64dp</dimen>
+    <!--Context menu-->
+    <dimen name="menu_item_padding">2dp</dimen>
+    <dimen name="text_right_padding">28dp</dimen>
+    <dimen name="text_right_translation">8dp</dimen>
+    <dimen name="text_wrapper_right_margin">-8dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="menu_text_size">15sp</dimen>
+    <!--About Library-->
+    <dimen name="card_padding_openSource">12dp</dimen>
+    <dimen name="aboutImage_openSource">72dp</dimen>
+    <dimen name="textSizeLarge_openSource">20sp</dimen>
+    <dimen name="textSizeSmall_openSource">14sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="swipe_progress_bar_height">8dp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="define_int_facebook">year;owner</string>
+    <string name="library_facebook_author">Facebook</string>
+    <string name="library_facebook_authorWebsite">https://www.facebook.com/huynhvantoan22</string>
+    <string name="library_facebook_libraryName">Group Báo Online</string>
+    <string name="library_facebook_libraryDescription">Mọi thắc mắc lỗi hay góp ý liên quan đến ứng dụng vui lòng post ở Group mình sẽ đưa ra bản cập nhật sớm nhất.
+    </string>
+    <string name="library_facebook_libraryVersion">#2</string>
+    <string name="library_facebook_libraryWebsite">https://www.facebook.com/groups/975835452443869/</string>
+    <string name="library_facebook_licenseId">mit</string>
+    <string name="library_facebook_isOpenSource">true</string>
+    <string name="library_facebook_repositoryLink">https://www.facebook.com/groups/975835452443869/</string>
+    <string name="library_facebook_classPath">com.toan_itc.baoonline</string>
+    <!-- Custom variables section -->
+    <string name="library_facebook_owner">Huỳnh Văn Toàn</string>
+    <string name="library_facebook_year">2015</string>
+</resources>
